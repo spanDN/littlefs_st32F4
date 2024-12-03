@@ -1,0 +1,11 @@
+../Core/Src/main.c:60:5:block_device_read	24	static
+../Core/Src/main.c:68:5:block_device_prog	24	static
+../Core/Src/main.c:77:5:block_device_erase	16	static
+../Core/Src/main.c:85:5:block_device_sync	16	static
+../Core/Src/main.c:98:6:LFS_Config	4	static
+../Core/Src/main.c:131:5:main	16	static
+../Core/Src/main.c:210:6:SystemClock_Config	88	static
+../Core/Src/main.c:258:13:MX_SPI2_Init	8	static
+../Core/Src/main.c:296:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:329:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:375:6:Error_Handler	4	static,ignoring_inline_asm
